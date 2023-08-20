@@ -1,6 +1,6 @@
 ### Oi, sou o Gustavo! 👋
 
-- 🌱 Atualmente estudando ciência de dados com Python e C++
+- 🌱 Atualmente estudando ciência de dados com Python
 - 📚 Cursando Engenharia de Computação no CEFET-MG (Campus V)
 
 ![Gustavo Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=Lokinha92&show_icons=true&theme=dark&hide_border=true)
